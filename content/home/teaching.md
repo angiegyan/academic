@@ -25,7 +25,8 @@ _Teaching Assistant_
 + American Foreign Policy, POLSC 4540, Fall 2022
 
 <h2>The College of Wooster </h2>
-_Teaching Assistant_
+
+Teaching Assistant
 
 + Freshman Seminar, FYS 100, Fall 2020
 + African Religion, RELS 262, Spring 2019

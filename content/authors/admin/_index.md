@@ -67,7 +67,7 @@ social:
 highlight_name: false
 ---
 
-#_Hi! First things first, it's pronounced "Oh-Tee-Mon." Please, just call me Jacob._
+
 
 I am a political science PhD Student at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. Before moving to Missouri, I recieved my BA in Political Science from the [The College of Wooster](https://wooster.edu/). My primary research interests revolve around the intricate dynamics of race, ethnicity, and gender in African politics and international relations. In particular, I have chosen to focus my research on the vibrant and complex region of Sub-Saharan Africa. I aim to understand better and assess the enduring influence of pre-colonial political and social systems on the contemporary political landscape of African politics. My research wants to explore the diversity in African pre-colonial social and political systems and how this shaped African women’s non-violent and violent political engagement with politics. My research moving forward will aim to answer the following question: What explains the variation in African women’s participation in violent and non-violent anti-colonial resistance efforts?
 

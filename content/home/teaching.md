@@ -24,8 +24,11 @@ _Teaching Assistant_
 + Global Human Rights, POLSC 4430, Spring 2023
 + American Foreign Policy, POLSC 4540, Fall 2022
 
-
 <h2>The College of Wooster </h2>
-+ Freshman Seminar, POLSC 1100, Fall 2020
-+ African Religion, Rel 1100, Spring 2019
-+ Black Religious Experience, Rel 1100, Fall 2018
+_Teaching Assistant_
+
++ Freshman Seminar, FYS 100, Fall 2020
++ African Religion, RELS 262, Spring 2019
++ Black Religious Experience, RELS 261, Fall 2018
+
+

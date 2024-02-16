@@ -32,7 +32,9 @@ weight = 57
 #+ State Government, POLSC 2100, Fall 2020
 
 _Teaching Assistant_
-+ History of American Legislatures, POLSC 4141, Spring 2022
-+ Congress and Legislative Policy, POLSC 4140, Spring 2022
-+ Strategy and Warfare, POLSC 4412, Spring 2020
-+ American National Government, POLSC 1100, Fall 2019
++ American Government, POLSC 1100, Fall 2023
++ Global Human Rights, POLSC 4430, Spring 2023
++ American Foreign Policy, POLSC 4540, Fall 2022
++ Freshman Seminar, POLSC 1100, Fall 2020
++ African Religion, Rel 1100, Spring 2019
++ Black Religious Experience, Rel 1100, Fall 2018

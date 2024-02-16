@@ -53,7 +53,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/angela-danso-gyane/
 
-Link to a PDF of your resume/CV.
+# Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
  #- icon: cv
